@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://angel1909-spec.github.io/angelchopra-portfolio/sitemap.xml
